@@ -1,0 +1,223 @@
+[
+    {
+        "car" : "coronet",
+        "year" : 1967,
+        "color" : "red",
+        "parts": [
+            {
+                "part": "Engine",
+                "is_broken": false,
+                "probability": 0.05
+            },
+            {
+                "part": "Tire",
+                "is_broken": false,
+                "probability": 0.10
+            },
+            {
+                "part": "Battery",
+                "is_broken": false,
+                "probability": 0.08
+            },
+            {   "part": "Fuel Pump",
+                "is_broken": false,
+                "probability": 0.02
+            },
+            {
+                "part": "Headlight",
+                "is_broken": false,
+                "probability": 0.04
+            },
+            {
+                "part": "Taillight",
+                "is_broken": false,
+                "probability": 0.06  
+            },
+            {
+                "part": "Mirror",
+                "is_broken": false,
+                "probability": 0.03
+            },
+            {
+                "part": "Exhaust",
+                "is_broken": false,
+                "probability": 0.07
+            },
+            {
+                "part": "Air Filter",
+                "is_broken": false,
+                "probability": 0.01
+            },
+            {
+                "part": "Oil Filter",  
+                "is_broken": false,
+                "probability": 0.02
+            },   {
+                "part": "Spark Plug",
+                "is_broken": false,
+                "probability": 0.05
+            },  
+            {
+                "part": "Radiator",
+                "is_broken": false,
+                "probability": 0.04
+            },{
+                "part": "Brake Pad",
+                "is_broken": false,
+                "probability": 0.15
+            },{
+                "part": "Windshield",
+                "is_broken": false,
+                "probability": 0.01
+            }
+        ]
+    },
+
+    {
+        "car" : "mgb",
+        "year" : 1975,
+        "color" : "blue",
+        "parts": [
+            {
+                "part": "Engine",
+                "is_broken": false,
+                "probability": 0.05
+            },
+            {
+                "part": "Tire",
+                "is_broken": false,
+                "probability": 0.10
+            },
+            {
+                "part": "Battery",
+                "is_broken": false,
+                "probability": 0.08
+            },
+            {   "part": "Fuel Pump",
+                "is_broken": false,
+                "probability": 0.02
+            },
+            {
+                "part": "Headlight",
+                "is_broken": false,
+                "probability": 0.04
+            },
+            {
+                "part": "Taillight",
+                "is_broken": false,
+                "probability": 0.06  
+            },
+            {
+                "part": "Mirror",
+                "is_broken": false,
+                "probability": 0.03
+            },
+            {
+                "part": "Exhaust",
+                "is_broken": false,
+                "probability": 0.07
+            },
+            {
+                "part": "Air Filter",
+                "is_broken": false,
+                "probability": 0.01
+            },
+            {
+                "part": "Oil Filter",  
+                "is_broken": false,
+                "probability": 0.02
+            },   {
+                "part": "Spark Plug",
+                "is_broken": false,
+                "probability": 0.05
+            },  
+            {
+                "part": "Radiator",
+                "is_broken": false,
+                "probability": 0.04
+            },{
+                "part": "Brake Pad",
+                "is_broken": false,
+                "probability": 0.15
+            },{
+                "part": "Windshield",
+                "is_broken": false,
+                "probability": 0.01
+            }
+        ]
+    },
+
+    {
+        "car" : "mustang",
+        "year" : 1964,
+        "color" : "blue",
+        "parts": [
+            {
+                "part": "Engine",
+                "is_broken": false,
+                "probability": 0.05
+            },
+            {
+                "part": "Tire",
+                "is_broken": false,
+                "probability": 0.10
+            },
+            {
+                "part": "Battery",
+                "is_broken": false,
+                "probability": 0.08
+            },
+            {   "part": "Fuel Pump",
+                "is_broken": false,
+                "probability": 0.02
+            },
+            {
+                "part": "Headlight",
+                "is_broken": false,
+                "probability": 0.04
+            },
+            {
+                "part": "Taillight",
+                "is_broken": false,
+                "probability": 0.06  
+            },
+            {
+                "part": "Mirror",
+                "is_broken": false,
+                "probability": 0.03
+            },
+            {
+                "part": "Exhaust",
+                "is_broken": false,
+                "probability": 0.07
+            },
+            {
+                "part": "Air Filter",
+                "is_broken": false,
+                "probability": 0.01
+            },
+            {
+                "part": "Oil Filter",  
+                "is_broken": false,
+                "probability": 0.02
+            },   {
+                "part": "Spark Plug",
+                "is_broken": false,
+                "probability": 0.05
+            },  
+            {
+                "part": "Radiator",
+                "is_broken": false,
+                "probability": 0.04
+            },{
+                "part": "Brake Pad",
+                "is_broken": false,
+                "probability": 0.15
+            },{
+                "part": "Windshield",
+                "is_broken": false,
+                "probability": 0.01
+            }
+        ]
+    }
+]

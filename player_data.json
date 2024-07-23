@@ -1,0 +1,8 @@
+{
+    "money" : 500,
+    "cars" : ["mgb", "coronet", "mustang"],
+    "date" : "05-06-2015",
+    "time" : 18,
+    "garageSpaces" : 4,
+    "carPos" : [8,8]
+}

@@ -1,0 +1,334 @@
+{
+    "coronet" : {
+        "car" : "coronet",
+        "year" : 1967,
+        "color" : "red",
+        "gas" : 10,
+        "max_gas" : 12,
+        "acceleration" : 0.2,
+        "brake" : 0.15,
+        "top_speed" : 110,
+        "cylinders" : 8,
+        "parts": {
+            "Engine" : {
+                "is_broken": false,
+                "probability": 0.05
+            },
+            "TireFL" : {
+                "is_broken": false,
+                "probability": 0.10
+            },
+            "TireFR" : {
+                "is_broken": false,
+                "probability": 0.10
+            },
+            "TireBL" : {
+                "is_broken": false,
+                "probability": 0.10
+            },
+            "TireBR" : {
+                "is_broken": false,
+                "probability": 0.10
+            },
+            "Battery" : {
+                "is_broken": false,
+                "probability": 0.08,
+                "life" : 1
+            },
+            "Fuel Pump" : {
+                "is_broken": false,
+                "probability": 0.02
+            },
+            "HeadlightL" : {
+                "is_broken": false,
+                "probability": 0.04
+            },
+            "HeadlightR" : {
+                "is_broken": false,
+                "probability": 0.04
+            },
+            "Taillight" : {
+                "is_broken": false,
+                "probability": 0.06  
+            }, 
+            "Spark Plugs" : {
+                "is_broken": false,
+                "probability": 0.05
+            },
+            "Radiator Fan" : {
+                "is_broken": false,
+                "probability": 0.04
+            },
+            "Brake Pads" : {
+                "is_broken": false,
+                "probability": 0.15
+            },
+            "Carburator" : {
+                "is_broken": false,
+                "probability": 0.04
+            },
+            "Brake Fluid Reservoir" : {
+                "is_broken": false,
+                "probability": 0.04
+            },
+            "Transmission" : {
+                "is_broken": false,
+                "probability": 0.04
+            },
+            "Alternator" : {
+                "is_broken": false,
+                "probability": 0.04
+            },
+            "Power Steering Belt" : {
+                "is_broken": false,
+                "probability": 0.04
+            },
+            "Alternator Belt" : {
+                "is_broken": false,
+                "probability": 0.04
+            },
+            "Starter" : {
+                "is_broken": false,
+                "probability": 0.04
+            }, 
+            "Turn Signals" : {
+                "is_broken": false,
+                "probability": 0.04
+            },
+            "Steering Box" : {
+                "is_broken": false,
+                "probability": 0.04
+            },
+            "Distributor" : {
+                "is_broken": false,
+                "probability": 0.04
+            },
+            "Ignition Coil" : {
+                "is_broken": false,
+                "probability": 0.04
+            }
+        }
+    },
+
+    "mgb" : {
+        "car" : "mgb",
+        "year" : 1975,
+        "color" : "blue",
+        "gas" : 10,
+        "max_gas" : 10,
+        "acceleration" : 0.25,
+        "brake" : 0.1,
+        "top_speed" : 95,
+        "cylinders" : 4,
+        "parts": {
+            "Engine" : {
+                "is_broken": false,
+                "probability": 0.05
+            },
+            "TireFL" : {
+                "is_broken": false,
+                "probability": 0.10
+            },
+            "TireFR" : {
+                "is_broken": false,
+                "probability": 0.10
+            },
+            "TireBL" : {
+                "is_broken": false,
+                "probability": 0.10
+            },
+            "TireBR" : {
+                "is_broken": false,
+                "probability": 0.10
+            },
+            "Battery" : {
+                "is_broken": false,
+                "probability": 0.08,
+                "life" : 1
+            },
+            "Fuel Pump" : {
+                "is_broken": false,
+                "probability": 0.02
+            },
+            "HeadlightL" : {
+                "is_broken": false,
+                "probability": 0.04
+            },
+            "HeadlightR" : {
+                "is_broken": false,
+                "probability": 0.04
+            },
+            "Taillight" : {
+                "is_broken": false,
+                "probability": 0.06  
+            }, 
+            "Spark Plugs" : {
+                "is_broken": false,
+                "probability": 0.05
+            },
+            "Radiator Fan" : {
+                "is_broken": false,
+                "probability": 0.04
+            },
+            "Brake Pads" : {
+                "is_broken": false,
+                "probability": 0.15
+            },
+            "Carburator" : {
+                "is_broken": false,
+                "probability": 0.04
+            },
+            "Brake Fluid Reservoir" : {
+                "is_broken": false,
+                "probability": 0.04
+            },
+            "Transmission" : {
+                "is_broken": false,
+                "probability": 0.04
+            },
+            "Alternator" : {
+                "is_broken": false,
+                "probability": 0.04
+            },
+            "Power Steering Belt" : {
+                "is_broken": false,
+                "probability": 0.04
+            },
+            "Alternator Belt" : {
+                "is_broken": false,
+                "probability": 0.04
+            },
+            "Starter" : {
+                "is_broken": false,
+                "probability": 0.04
+            }, 
+            "Turn Signals" : {
+                "is_broken": false,
+                "probability": 0.04
+            },
+            "Steering Box" : {
+                "is_broken": false,
+                "probability": 0.04
+            },
+            "Distributor" : {
+                "is_broken": false,
+                "probability": 0.04
+            },
+            "Ignition Coil" : {
+                "is_broken": false,
+                "probability": 0.04
+            }
+        }
+    },
+
+    "mustang" : {
+        "car" : "mustang",
+        "year" : 1964,
+        "color" : "blue",
+        "gas" : 6,
+        "max_gas" : 12,
+        "acceleration" : 0.5,
+        "brake" : 0.1,
+        "top_speed" : 110,
+        "cylinders" : 8,
+        "parts": {
+            "Engine" : {
+                "is_broken": false,
+                "probability": 0.05
+            },
+            "TireFL" : {
+                "is_broken": false,
+                "probability": 0.10
+            },
+            "TireFR" : {
+                "is_broken": false,
+                "probability": 0.10
+            },
+            "TireBL" : {
+                "is_broken": false,
+                "probability": 0.10
+            },
+            "TireBR" : {
+                "is_broken": false,
+                "probability": 0.10
+            },
+            "Battery" : {
+                "is_broken": false,
+                "probability": 0.08,
+                "life" : 1
+            },
+            "Fuel Pump" : {
+                "is_broken": false,
+                "probability": 0.02
+            },
+            "HeadlightL" : {
+                "is_broken": false,
+                "probability": 0.04
+            },
+            "HeadlightR" : {
+                "is_broken": false,
+                "probability": 0.04
+            },
+            "Taillight" : {
+                "is_broken": false,
+                "probability": 0.06  
+            }, 
+            "Spark Plugs" : {
+                "is_broken": false,
+                "probability": 0.05
+            },
+            "Radiator Fan" : {
+                "is_broken": false,
+                "probability": 0.04
+            },
+            "Brake Pads" : {
+                "is_broken": false,
+                "probability": 0.15
+            },
+            "Carburator" : {
+                "is_broken": false,
+                "probability": 0.04
+            },
+            "Brake Fluid Reservoir" : {
+                "is_broken": false,
+                "probability": 0.04
+            },
+            "Transmission" : {
+                "is_broken": false,
+                "probability": 0.04
+            },
+            "Alternator" : {
+                "is_broken": false,
+                "probability": 0.04
+            },
+            "Power Steering Belt" : {
+                "is_broken": false,
+                "probability": 0.04
+            },
+            "Alternator Belt" : {
+                "is_broken": false,
+                "probability": 0.04
+            },
+            "Starter" : {
+                "is_broken": false,
+                "probability": 0.04
+            }, 
+            "Turn Signals" : {
+                "is_broken": false,
+                "probability": 0.04
+            },
+            "Steering Box" : {
+                "is_broken": false,
+                "probability": 0.04
+            },
+            "Distributor" : {
+                "is_broken": false,
+                "probability": 0.04
+            },
+            "Ignition Coil" : {
+                "is_broken": false,
+                "probability": 0.04
+            }
+        }
+    }
+}
